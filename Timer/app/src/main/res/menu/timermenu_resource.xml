@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/time_menu_add"
+        android:title="기본 타이머 추가"
+        app:showAsAction="withText"/>
+    <item
+        android:id="@+id/time_menu_edit"
+        android:title="기본 타이머 편집"
+        app:showAsAction="withText"/>
+    <item
+        android:id="@+id/time_menu_config"
+        android:title="설정"
+        app:showAsAction="withText"/>
+</menu>
